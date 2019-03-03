@@ -13,7 +13,7 @@ It is better to just try the app to understand what you can achieve, or watch th
 [LoNe IpG](https://www.youtube.com/watch?v=MUhhDzTtFE4)
 
 # How to create an Icon Pack Generator Theme
-It is very easy to create one. After that, you can publish it on Google Play (paid or free as you wish). After that, to be listed in the themes showcase into the app, just compile this form: (I strongly suggest you to do this as you will get free advertise into the app).
+It is very easy to create one. After that, you can publish it on Google Play (paid or free as you wish).
 
 * Create a new project with Android Studio (select "Add No Activity" and then API 21 as minimum API level). You can skip this if you want to add the Icon Pack Generator theme to an existing theme/app
 * Put this code into the application tag of the AndroidManifest.xml file:
