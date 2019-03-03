@@ -29,7 +29,7 @@ android:name="IconPackGenerator_Theme_Author"
 android:value="PUT YOUR DEVELOPER NAME HERE" />
 ```
 Change "PUT YOUR THEME'S NAME HERE" with your theme name and "PUT YOUR DEVELOPER NAME HERE" with your developer name
-* If not present, create "assets" folder (under "res" folder). Under "assets" folder, create "ipg" folder. Under "ipg" folder, create "iconback", "iconmask","iconupon" folders
+* If not present, create "assets" folder (click on app -> new -> directory). Under "assets" folder, create "ipg" folder. Under "ipg" folder, create "iconback", "iconmask","iconupon" folders
 * Add as many images as you want in the three folders created. Name them as you want (they will be listed alphabetically into the app). The only constraint is that images must be in .png format and 192x192 pixels
 * That's it! Just install the icon pack on your phone and when you're done, publish it to Google Play or where you want!
 
